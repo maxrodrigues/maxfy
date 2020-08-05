@@ -1,6 +1,8 @@
-#APLICAÇÃO IGUAL AO PIPEFY#
+# APLICAÇÃO "IGUAL" AO PIPEFY
 
 A aplicação foi desenvolvida seguindo do video da [Rocketseat](https://youtu.be/awRtgpRsdTQ), com intuito de aprendizado do **ReactJS**
+
+Criação do app do 0, com as funcionalidades de arrastar os cards e soltar em outras posições.
 
 Para instalar o projeto após o clone:
 ```
